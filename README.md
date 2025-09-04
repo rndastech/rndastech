@@ -45,8 +45,8 @@
 <a href="https://www.sqlite.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://neo4j.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/neo4j.svg" alt="Neo4j" height="50" /></a>  
-<a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/amazon-s3.svg" alt="AWS S3" height="50" /></a>  
-<a href="https://www.cloudflare.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/cloudflare-1.svg" alt="Cloudflare" height="50" /></a>  
+<a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS S3" height="50" /></a>  
+<a href="https://www.cloudflare.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/download/331337/cloudflare.svg" alt="Cloudflare" height="50" /></a>  
 </div>  
 
 ### Machine Learning & AI  
