@@ -2,8 +2,7 @@
 
 ### <div align="center">I'm Ritesh N Das, an IT student from India 👨‍💻 currently pursuing BTech from IIIT Allahabad 🚀</div>  
 
-- 🌱 I’m currently learning C++ and DSA  
-- ⚡ Fun fact: I like Competitive Coding  
+### <div align="center">💻 Full-Stack Developer | 🤖 ML Enthusiast | 🏆 Competitive Programmer</div>  
 
 <br/>  
 
