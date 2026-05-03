@@ -1,8 +1,8 @@
-### <div align="center">👋 Hi There</div>  
+### <div align="center">👋 Hey, I’m Ritesh N Das</div>  
 
-### <div align="center">I'm Ritesh N Das, an IT student from India 👨‍💻 currently pursuing BTech from IIIT Allahabad 🚀</div>  
+### <div align="center">B.Tech @ IIIT Allahabad • Engineering end-to-end systems across web, ML, and LLM agents</div>  
 
-### <div align="center">💻 Full-Stack Developer | 🤖 ML Enthusiast | 🏆 Competitive Programmer</div>  
+### <div align="center">💻 Full-Stack Engineer | 🤖 ML Enthusiast | 🏆 Competitive Programmer</div>  
 
 <br/>  
 
@@ -19,36 +19,40 @@
 ### Developer Tools  
 <div align="top">  
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/download/512317/github-142.svg" alt="GitHub" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/download/512317/github-142.svg" alt="GitHub" height="50" /></a>
+<a href="https://docker.com/" target="_blank"><img style="margin: 10px" src="https://dl.svgcdn.com/svg/logos/docker-icon.svg" alt="Docker" width="50" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/download/374171/vscode.svg" alt="VS Code" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>  
 
 ### Machine Learning & AI  
 <div align="top">  
+<a href="https://langchain-ai.github.io/langgraph/" target="_blank"><img style="margin: 10px" src="https://dl.svgcdn.com/svg/simple-icons/langgraph.svg" alt="Langgraph logo" width ="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="50" /></a>  
 <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" height="50" /></a>  
-<a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/download/396671/hugging-face.svg" alt="Hugging Face" height="50" /></a>  
+<a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/download/396671/hugging-face.svg" alt="Hugging Face" height="50" /></a>
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
+</div>  
+
+### Data Analytics and Visualisation
+<div align="top">
 <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/download/373938/numpy.svg" alt="NumPy" height="50" /></a>  
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/download/473742/pandas.svg" alt="Pandas" height="50" /></a>  
 <a href="https://scipy.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy" height="50" /></a>  
 <a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="50" /></a>  
-<a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-</div>  
+<a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="50" /></a>
+</div>
 
-### Web Development Frameworks  
+### Web Development 
 <div align="top">   
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>    
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>
+<a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" src="https://dl.svgcdn.com/svg/logos/streamlit.svg" width="50" /></a> 
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="50" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/download/374118/tailwind.svg" alt="Tailwind CSS" height="50" /></a>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
 </div>  
 
 ### Cloud & Databases  
@@ -72,9 +76,6 @@
 <a href="https://linkedin.com/in/ritesh-narayan-das-6196b3268/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/rndascode" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
 </div>  
 
 <br/>   
